@@ -10,7 +10,14 @@ A production-quality interactive machine learning dashboard for predicting traff
 https://github.com/user-attachments/assets/1eb2fecd-993c-4da7-9499-a7bf9c431553
 
 
+
+
+<img width="747" height="992" alt="Screenshot 2026-02-12 084127" src="https://github.com/user-attachments/assets/7c1d0e58-1f15-4362-851e-0add4ca09fdf" />
+
+<img width="750" height="992" alt="Screenshot 2026-02-12 084139" src="https://github.com/user-attachments/assets/4d9dccf6-3eaa-4d9a-8e17-0aa80f6d3bb4" />
+
 ---
+
 
 ## 📋 Table of Contents
 
