@@ -4,6 +4,12 @@ A production-quality interactive machine learning dashboard for predicting traff
 
 **Live Demo:** http://localhost:8501 (after running)
 
+
+
+
+https://github.com/user-attachments/assets/1eb2fecd-993c-4da7-9499-a7bf9c431553
+
+
 ---
 
 ## 📋 Table of Contents
